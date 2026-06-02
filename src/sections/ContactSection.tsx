@@ -31,7 +31,7 @@ export function ContactSection({ reduceMotion }: ContactSectionProps) {
       brand: "github",
       label: "GitHub",
       logoSrc: "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
-      value: "aliabdullahazhar",
+      value: "ali139713",
       external: true,
     },
     {

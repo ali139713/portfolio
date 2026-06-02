@@ -93,7 +93,7 @@ export const profile = {
   amazingThing:
     "The most amazing thing I've shipped is a React Native app to 100,000+ users in its first quarter while leading full-stack architecture end-to-end.",
   linkedinUrl: "https://www.linkedin.com/in/ali-abdullah-azhar-5387671b1/",
-  githubUrl: "https://github.com/aliabdullahazhar",
+  githubUrl: "https://github.com/ali139713",
   email: "aliabdullahazhar@gmail.com",
   emailUrl: "mailto:aliabdullahazhar@gmail.com",
   whatsapp: "+923304029793",
