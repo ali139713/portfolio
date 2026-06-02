@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Orbit Social</title>
+  <defs>
+    <linearGradient id="orbit-background" x1="256" x2="256" y1="0" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a66ee8"/>
+      <stop offset="1" stop-color="#ad5add"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#orbit-background)"/>
+  <circle cx="256" cy="254" r="171" fill="#fff"/>
+  <path
+    d="M256 165c-46.4 0-84 37.6-84 84 0 61.8 84 116 84 116s84-54.2 84-116c0-46.4-37.6-84-84-84Z"
+    fill="#a862df"
+  />
+  <circle cx="256" cy="249" r="35" fill="#100e12"/>
+</svg>
