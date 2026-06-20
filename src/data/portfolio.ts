@@ -81,7 +81,7 @@ export const profile = {
   verifiedTitle: "Verified Expert in Engineering",
   location: "Lahore, Punjab, Pakistan",
   tagline:
-    "I build production-grade SaaS, mobile, and AI-ready systems that stay fast under pressure.",
+    "Senior Engineer. I build things that scale.",
   bio:
     "Ali is a senior full-stack engineer with 8+ years of experience building scalable SaaS platforms, mobile apps, and AI-integrated products. He delivers enterprise solutions for clients, including AMC and Capgemini, and specializes in React, Next.js, React Native, Node.js, and TypeScript. Ali has led end-to-end development across the health, media, fintech, and security domains.",
   specialties:

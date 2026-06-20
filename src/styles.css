@@ -1182,7 +1182,7 @@ svg {
   font-weight: 700;
   line-height: 1.25;
   max-width: 740px;
-  min-height: 3.75em;
+  min-height: 1.25em;
   transition:
     color 0.25s var(--ease-standard),
     text-shadow 0.28s var(--ease-standard);

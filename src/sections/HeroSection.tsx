@@ -70,10 +70,7 @@ function HeroStat({ label, reduceMotion, suffix, value }: HeroStatProps) {
 }
 
 export function HeroSection({ onNavigate, reduceMotion }: HeroSectionProps) {
-  const heroBody =
-    `Senior full-stack engineer with ${profile.experience} of experience across ` +
-    `${profile.specialties}. Ali blends engineering excellence, scalability, and ` +
-    "product sense so teams can ship faster without creating fragile systems.";
+  const heroBody = profile.bio;
   const heroSegments = useMemo(
     () => [
       "Ali Abdullah",
